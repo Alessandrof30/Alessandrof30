@@ -1,16 +1,16 @@
-### Hi there 👋
+## <h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Alessandro e sejam bem vindos ao meu Github</h1>
+Sou um programador front End, atualmente estou aprendendo e criando projetos com as seguintes linguagens:
+<br>
+- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 
-<!--
-**Alessandrof30/Alessandrof30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;  
 
-Here are some ideas to get you started:
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+
+
+
+
+
