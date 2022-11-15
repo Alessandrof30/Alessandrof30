@@ -11,9 +11,7 @@ Sou um programador front End, atualmente estou aprendendo e criando projetos com
 
 
 
-<div align="center">
-<div style="display: inline_block"><br>
-
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alessandrof30&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrof30&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
