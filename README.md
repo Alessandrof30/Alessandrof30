@@ -7,6 +7,11 @@ Sou um programador front End, atualmente estou aprendendo e criando projetos com
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
+<div align="center">
+  <a href="https://github.com/Alessandrof30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alessandrof30&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrof30&layout=compact&langs_count=7&theme=onedark"/>
+</div>
   
   
 
