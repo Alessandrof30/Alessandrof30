@@ -18,9 +18,9 @@ Atualmente, estou focado em aprimorar minhas habilidades em **HTML, CSS e JavaSc
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
-| 💘 **Operação Coração** | Jogo interativo desenvolvido em HTML, CSS e JS. | [Ver no GitHub](https://github.com/Alessandrof30/Jogo-do-Cora--o) |
-| ☀️ **Previsão do Tempo** | Aplicativo que exibe o clima em tempo real através de uma API. | [Ver no GitHub](https://github.com/Alessandrof30/Previsao-do-Tempo) |
-| 🛍️ **DevClub Store** | Protótipo de loja virtual com layout responsivo. | [Ver no GitHub](https://github.com/Alessandrof30/DevClub-Store) |
+| 💘 **Operação Coração** | Jogo interativo desenvolvido em HTML, CSS e JS. | [Ver no GitHub] |
+| ☀️ **Previsão do Tempo** | Aplicativo que exibe o clima em tempo real através de uma API. | [Ver no GitHub]() |
+| 🛍️ **DevClub Store** | Protótipo de loja virtual com layout responsivo. | [Ver no GitHub](https://github.com/Alessandrof30/Loja-DevClub) |
 
 *(Adicione ou atualize conforme lançar novos projetos.)*
 
